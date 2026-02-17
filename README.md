@@ -1,6 +1,6 @@
 # Punktator
 
-**Punktator** by Michalskitoja to projekt ktory ma pomagac w punktowaniu na meczu pilki noznej
+**Punktator** by Michalskitoja to projekt ktory ma pomagac w punktowaniu np. meczu pilki noznej
 
 ---
 
